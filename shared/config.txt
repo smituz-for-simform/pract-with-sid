@@ -2,3 +2,4 @@ shared config v1
 change 1
 change 2
 change 3
+atomic change
